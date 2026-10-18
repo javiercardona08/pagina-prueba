@@ -1,0 +1,62 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.columna1 {
+    background-color: #1d2d44;
+    display: grid;
+    grid-template-columns: 40% 60%;
+    position: fixed;
+    width: 100%;
+}
+
+.columna1-1 {
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    color: white;
+}
+
+.columna1-1 img {
+    height: 200px;
+    width: 350px;
+    
+}
+
+
+.columna1-2 {
+    display: flex;
+    flex-direction: row;
+    gap: 30px;
+    color: white;
+    align-items: center;
+}
+
+.columna1-2 h1{
+    cursor: pointer;
+}
+
+
+.separador {
+    width: 0;
+    border: 1px solid white;
+    height: 30px;
+}
+
+
+.columna2{
+    display:flex;
+    flex-wrap: column;
+    background-image: url(angelJusticia.jpg);
+    background-size: cover;
+    background-position: center;
+    width: auto;
+    height: 1500px;
+}
+
+.columna2 p{
+    color: white;
+
+}

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 100" role="img">
+  <g fill="none" stroke="#bd9a2a" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="50" cy="50" r="44" stroke-width="2"/>
+    <path d="M50 25v47M29 36q21-8 42 0M31 36l-10 17m10-17 10 17m28-17L59 53m10-17 10 17M20 53q11 20 22 0m16 0q11 20 22 0M40 76h20M35 81h30" stroke-width="2.5"/>
+    <path d="M50 18v7" stroke-width="2.5"/>
+  </g>
+  <text x="112" y="48" fill="#243247" font-family="Georgia, 'Times New Roman', serif" font-size="27" font-weight="600" letter-spacing=".2">MEJÍA'S ASOCIADOS</text>
+  <path d="M113 60h276" stroke="#bd9a2a" stroke-width="1"/>
+  <text x="114" y="82" fill="#756126" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="600" letter-spacing="5.2">ABOGADOS</text>
+</svg>
